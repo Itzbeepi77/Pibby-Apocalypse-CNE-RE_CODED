@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 180,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -8290170,
+	"displayName": "Blessed by Swords",
+	"icon": "Pibby Apocalypse/finn",
+	"name": "Blessed-By-Swords",
+	"color": "#818086",
+	"threatLevel": "90"
+}

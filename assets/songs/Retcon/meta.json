@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 200,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -16078633,
+	"displayName": "Retcon",
+	"icon": "Pibby Apocalypse/gumball",
+	"name": "Retcon",
+	"color": "#0AA8D7",
+	"threatLevel": "55"
+}

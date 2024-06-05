@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-30" icon="Pibby Apocalypse/jake" camx="-60" y="-80" isGF="false" camy="260" color="#FFDF09" isPlayer="false" sprite="PA/Jake">
+	<anim x="24" loop="false" y="-369" fps="24" anim="Down0" name="singDOWN"/>
+
+	<anim x="124" loop="false" y="57" fps="24" anim="Up0" name="singUP"/>
+
+	<anim x="-5" loop="false" y="-290" fps="24" anim="Idle" name="idle"/>
+
+	<anim x="-13" loop="false" y="-206" fps="24" anim="Right0" name="singRIGHT"/>
+
+	<anim x="182" loop="false" y="-247" fps="24" anim="Left0" name="singLEFT"/>
+</character>

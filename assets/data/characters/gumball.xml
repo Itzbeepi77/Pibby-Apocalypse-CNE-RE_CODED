@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" isGF="false" y="350" camx="-110" icon="Pibby Apocalypse/gumball" scale="1.2" isPlayer="false" color="#04EBFF" sprite="PA/gumball">
+	<anim loop="false" x="64" anim="Down0" fps="24" y="36" name="singDOWN"/>
+
+	<anim loop="false" x="84" anim="Up0" fps="24" y="63" name="singUP"/>
+
+	<anim loop="false" x="58" anim="Laugh" fps="24" y="34" name="laugh"/>
+
+	<anim loop="false" x="-5" anim="Idle" fps="24" y="0" name="idle"/>
+
+	<anim loop="false" x="-19" anim="Right0" fps="24" y="-58" name="singRIGHT"/>
+
+	<anim loop="false" x="203" anim="Left0" fps="24" y="-44" name="singLEFT"/>
+</character>

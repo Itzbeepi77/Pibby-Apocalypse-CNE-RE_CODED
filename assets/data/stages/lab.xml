@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/lab/" zoom="1.1" name="lab">
+	<sprite x="900" sprite="bg" y="525" scale="1.6" name="bg"/>
+	<gf x="2073.25" y="573.5" scroll="1" camx="2000" camy="1000" zoom="1"/>
+	<dad x="1069.25" y="601.25" camx="1500" camy="900"/>
+	<boyfriend x="2114.75" y="600.25" camx="2150" camy="1050" zoom="1"/>
+	<sprite x="900" sprite="dark" y="525" scale="1.6" name="dark"/>
+	<sprite x="900" sprite="light" y="525" scale="1.6" name="light"/>
+	<sprite x="1310" sprite="bulb" y="498.5" scale="1.6" name="bulb"/>
+	<sprite x="0" y="0" sprite="Finn_Transformation" scroll="0" scale="1" name="Finntransform"/>
+	<combo x="1946" y="802"/>
+</stage>

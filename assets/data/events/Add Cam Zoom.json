@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "GameZooms",
+            "type": "String",
+            "defaultValue": "0.015"
+        },
+        {
+            "name": "HudZooms",
+            "type": "String",
+            "defaultValue": "0.03"
+        }
+    ]
+}

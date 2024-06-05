@@ -1,0 +1,19 @@
+{
+    "params": [
+        {
+            "name": "Values [to turn on/off thingy]",
+            "type": "Bool",
+            "defaultValue": true
+        },
+        {
+            "name": "Colors",
+            "type": "ColorWheel",
+            "defaultValue": "#000000"
+        },
+        {
+            "name": "BG Colors",
+            "type": "ColorWheel",
+            "defaultValue": "#FFFFFF"
+        }
+    ]
+}

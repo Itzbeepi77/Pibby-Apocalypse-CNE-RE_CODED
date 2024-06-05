@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 189.55,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -16539709,
+	"displayName": "Forgotten World",
+	"icon": "Pibby Apocalypse/gumball",
+	"name": "Forgotten-World",
+	"color": "#039FC3",
+	"threatLevel": "65"
+}

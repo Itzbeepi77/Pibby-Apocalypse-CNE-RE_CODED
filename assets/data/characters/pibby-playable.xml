@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-character>
+<character x="-25" camx="-420" icon="Pibby Apocalypse/pibby" y="300" isGF="false" camy="-20" flipX="false" isPlayer="false" sprite="PA/pibby-playable" color="#AD50FF">
+	<anim x="265" loop="false" y="0" fps="24" anim="Down0" name="singDOWN"/>
+
+	<anim x="29" loop="false" y="1" fps="24" anim="MissR0" name="singRIGHTmiss"/>
+
+	<anim x="34" loop="false" y="277" fps="24" anim="Up0" name="singUP"/>
+
+	<anim x="320" loop="false" y="102" fps="24" anim="MissL0" name="singLEFTmiss"/>
+
+	<anim x="-5" loop="false" y="0" fps="24" anim="Idle" name="idle"/>
+
+	<anim x="156" loop="false" y="185" fps="24" anim="Cmon" name="cmon"/>
+
+	<anim x="-3" loop="false" y="-6" fps="24" anim="Right0" name="singRIGHT"/>
+
+	<anim x="259" loop="false" y="-29" fps="24" anim="MissD0" name="singDOWNmiss"/>
+
+	<anim x="31" loop="false" y="277" fps="24" anim="MissU0" name="singUPmiss"/>
+
+	<anim x="322" loop="false" y="-10" fps="24" anim="Left0" name="singLEFT"/>
+</character>

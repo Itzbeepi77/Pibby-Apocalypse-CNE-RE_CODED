@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "Color",
+            "type": "ColorWheel",
+            "defaultValue": "#FFFFFF"
+        },
+        {
+            "name": "Text",
+            "type": "String",
+            "defaultValue": "Blah Blah Blah Swag"
+        }
+    ]
+}

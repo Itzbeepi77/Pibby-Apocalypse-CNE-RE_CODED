@@ -1,0 +1,28 @@
+<!DOCTYPE codename-engine-character>
+<character x="-250" camx="100" icon="bf" y="400" isGF="false" camy="0" color="#04D4F9" flipX="true" isPlayer="true" sprite="PA/BfSwordUp">
+		<anim x="-17" loop="false" y="258" fps="24" anim="block good0" name="singDOWNdodge"/>
+
+		<anim x="-159" loop="false" y="264" fps="24" anim="block bad0" name="singDOWNmiss"/>
+
+		<anim x="-88" loop="false" y="27" fps="24" anim="Bf Shoot D" name="singDOWNshoot"/>
+
+		<anim x="123" loop="false" y="234" fps="24" anim="block sick0" name="singUPdodge"/>
+
+		<anim x="-159" loop="false" y="264" fps="24" anim="block bad0" name="singUPmiss"/>
+
+		<anim x="-124" loop="false" y="117" fps="24" anim="Bf Shoot U" name="singUPshoot"/>
+
+		<anim x="-5" loop="false" y="0" fps="24" anim="idle sword0" name="idle"/>
+
+		<anim x="-16" loop="false" y="258" fps="24" anim="block good0" name="singRIGHTdodge"/>
+        
+		<anim x="-159" loop="false" y="264" fps="24" anim="block bad0" name="singRIGHTmiss"/>
+
+		<anim x="-114" loop="false" y="145" fps="24" anim="Bf Shoot R" name="singRIGHTshoot"/>
+
+		<anim x="123" loop="false" y="234" fps="24" anim="block sick0" name="singLEFTdodge"/>
+        
+		<anim x="-159" loop="false" y="264" fps="24" anim="block bad0" name="singLEFTmiss"/>
+
+		<anim x="31" loop="false" y="138" fps="24" anim="Bf Shoot L" name="singLEFTshoot"/>
+</character>

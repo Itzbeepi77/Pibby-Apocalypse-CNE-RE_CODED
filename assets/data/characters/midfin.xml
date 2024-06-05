@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-character>
+<character x="-70" isGF="false" y="140" camx="20" icon="Pibby Apocalypse/finnbad" camy="90" isPlayer="false" color="#868686" sprite="PA/midfin">
+	<anim loop="false" x="-206" anim="d" fps="24" y="-230" name="singDOWN"/>
+
+	<anim loop="false" x="-86" anim="u" fps="24" y="-23" name="singUP"/>
+
+	<anim loop="false" x="-5" anim="i" fps="24" y="-90" name="idle"/>
+
+	<anim loop="false" x="-223" anim="r" fps="24" y="-86" name="singRIGHT"/>
+
+	<anim loop="false" x="-78" anim="l" fps="24" y="-97" name="singLEFT"/>
+
+	<anim loop="false" x="-166" anim="altd" fps="24" y="-180" name="singDOWN-alt"/>
+
+	<anim loop="false" x="-142" anim="altu" fps="24" y="161" name="singUP-alt"/>
+
+	<anim loop="false" x="-303" anim="altr" fps="24" y="-86" name="singRIGHT-alt"/>
+
+	<anim loop="false" x="112" anim="altl" fps="24" y="63" name="singLEFT-alt"/>
+
+	<anim loop="false" x="142" anim="slash" fps="24" y="-37" name="slash"/>
+</character>

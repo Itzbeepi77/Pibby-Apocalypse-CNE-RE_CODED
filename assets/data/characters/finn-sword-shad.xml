@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-120" icon="Pibby Apocalypse/finn" camx="-80" y="0" isGF="false" camy="-30" color="#868686" isPlayer="false" sprite="PA/Finn-sword-shader">
+	<anim x="-66" loop="false" y="-46" fps="24" anim="Down" name="singDOWN"/>
+
+	<anim x="14" loop="false" y="291" fps="24" anim="Up" name="singUP"/>
+
+	<anim x="-5" loop="false" y="-90" fps="24" anim="Idle" name="idle"/>
+
+	<anim x="-73" loop="false" y="28" fps="24" anim="Right" name="singRIGHT"/>
+
+	<anim x="358" loop="false" y="-10" fps="24" anim="Left" name="singLEFT"/>
+</character>

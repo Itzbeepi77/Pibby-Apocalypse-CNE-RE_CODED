@@ -1,0 +1,38 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" icon="bf" y="350" isGF="false" sprite="PA/cartoon_bf_Gun" color="#04D4F9" flipX="true" isPlayer="true">
+	<anim x="-96" loop="false" y="-40" fps="24" anim="down0" name="singDOWN"/>
+
+	<anim x="74" loop="false" y="-18" fps="24" anim="down dodge0" name="singDOWNdodge"/>
+
+	<anim x="102" loop="false" y="-13" fps="24" anim="Bf Shoot D" name="singDOWNshoot"/>
+
+	<anim x="-40" loop="false" y="-9" fps="24" anim="MissR0" name="singRIGHTmiss"/>
+
+	<anim x="124" loop="false" y="57" fps="24" anim="up0" name="singUP"/>
+
+	<anim x="-39" loop="false" y="64" fps="24" anim="up dodge0" name="singUPdodge"/>
+
+	<anim x="67" loop="false" y="80" fps="24" anim="Bf Shoot U" name="singUPshoot"/>
+
+	<anim x="-58" loop="false" y="-6" fps="24" anim="MissL0" name="singLEFTmiss"/>
+
+	<anim x="-41" loop="false" y="14" fps="24" anim="BF reload0" name="reload"/>
+
+	<anim x="-5" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
+
+	<anim x="-14" loop="false" y="3" fps="24" anim="right0" name="singRIGHT"/>
+
+	<anim x="-56" loop="false" y="4" fps="24" anim="dodge right0" name="singRIGHTdodge"/>
+
+	<anim x="76" loop="false" y="106" fps="24" anim="Bf Shoot R" name="singRIGHTshoot"/>
+
+	<anim x="-21" loop="false" y="-49" fps="24" anim="MissD0" name="singDOWNmiss"/>
+
+	<anim x="-29" loop="false" y="87" fps="24" anim="MissU0" name="singUPmiss"/>
+
+	<anim x="-90" loop="false" y="-6" fps="24" anim="left0" name="singLEFT"/>
+
+	<anim x="55" loop="false" y="0" fps="24" anim="left dodge0" name="singLEFTdodge"/>
+
+	<anim x="221" loop="false" y="100" fps="24" anim="Bf Shoot L" name="singLEFTshoot"/>
+</character>

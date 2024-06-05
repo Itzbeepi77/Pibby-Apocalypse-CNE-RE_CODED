@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-25" camx="-92" icon="darwinFInale" y="408" isGF="false" camy="30" scale="1.2" flipX="true" isPlayer="true" sprite="PA/darwin-fw" color="#FF9100" gameOverChar="darwin">
+	<anim x="5" loop="false" y="-32" fps="24" anim="dd0" name="singDOWN"/>
+
+	<anim x="-46" loop="false" y="40" fps="24" anim="du0" name="singUP"/>
+
+	<anim x="-5" loop="false" y="0" fps="24" anim="di0" name="idle"/>
+
+	<anim x="-79" loop="false" y="22" fps="24" anim="dr0" name="singRIGHT"/>
+
+	<anim x="51" loop="false" y="-9" fps="24" anim="dl0" name="singLEFT"/>
+</character>

@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" sprite="PA/bfdeathfinn" y="-200" isPlayer="true" flipX="true">
+	<anim x="190" loop="false" y="337" fps="24" anim="bfdies" name="firstDeath"/>
+
+	<anim x="37" loop="false" y="5" fps="24" anim="deathloop" name="deathLoop"/>
+
+	<anim x="37" loop="false" y="5" fps="24" anim="deathloop" name="idle"/>
+
+	<anim x="872" loop="false" y="305" fps="24" anim="retry" name="deathConfirm"/>
+
+</character>

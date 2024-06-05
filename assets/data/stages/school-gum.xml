@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/school-Gum/" name="school-gum" zoom="0.9" startCamPosX="1200" startCamPosY="740">
+	<sprite x="150" sprite="Ilustracion_sin_titulo-1" y="200" scale="1.3" name="bg"/>
+	<sprite x="835" scroll="1" sprite="droplet" y="360" scale="1.35" name="droplet" alpha="0.0001"/>
+
+	<sprite name="penny" x="700" y="200" sprite="penny" scroll="1" scale="1.3" updateHitbox="true" alpha="0.0001">
+		<anim name="idle" anim="idle" fps="6" loop="true"/>
+	</sprite>
+
+	<sprite x="800" scroll="1" sprite="droplet2" y="350" scale="1" name="droplet2" alpha="0.0001"/>
+	<sprite x="625" scroll="1" sprite="sinkgoop" y="670" scale="1.7" name="sinkgoop" alpha="0.0001"/>
+	<gf x="1000" scroll="1" y="280"/>
+	<dad x="300" y="360"/>
+	<boyfriend x="1225.5" y="264" camxoffset="-150"/>
+	<sprite x="-200" scroll="1" sprite="Ilustracion_sin_titulo-2" y="200" scale="1.1" name="wall"/>
+	<sprite x="0" scroll="1" sprite="topgoop" y="100" scale="1.42" name="topgoop" alpha="0.0001"/>
+	<sprite x="1300" scroll="1.1" sprite="secondtopgoop" y="150" scale="1.42" name="topgoop2" alpha="0.0001"/>
+	<sprite x="-329.5" scroll="1" sprite="light" y="69" scale="1" name="light"/>
+	<sprite x="155" y="196" sprite="Ilustracion_sin_titulo-3" scale="1.3" name="idkShit"/>
+	<sprite x="-479.5" y="-13" sprite="188_sin_titulo11_20230523094718" scale="0.9" name="idkShit2"/>
+	<combo x="917.25" y="522.75"/>
+</stage>

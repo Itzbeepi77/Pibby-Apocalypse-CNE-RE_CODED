@@ -1,0 +1,16 @@
+<!DOCTYPE codename-mod-options>
+<!-- TEMPLATE FOR CUSTOM OPTIONS!!! -->
+<menu name="Pibby Apocalypse" desc="Funny Options if You want some shit stuff to be turned off/on IDFC">
+	<menu name="Opponent Options" desc="this is for opponent stuff like shader glitch and stuff">
+		<checkbox id="healthShit" name="HealthDrain" desc="HealthDraining when the opponent hit"/>
+		<checkbox id="shaderShit" name="Shader on note Hit" desc="Shader glitch when the opponent hit"/>
+		<checkbox id="glitchShit" name="Shader opponent" desc="Opponent glitch when the opponent hit"/>
+		<checkbox id="doubleShit" name="Double notes effect" desc="Double Shake when the opponent hit"/>
+	</menu>
+	
+	<menu name="Shaders Options" desc="shader glitch and stuff">
+		<checkbox id="glitchIcon" name="icon glitch" desc="If the health low it will have a glitch effect [MUST TURNED OF GAMEPLAY SHADERS ON!!]"/>
+	</menu>
+	
+	<checkbox id="funnyGoofyAhhPibbyCorruptedAngleCameraMovingMFSTFUKYSIDCLikeRealyGoofyAhhShitMFTurnOnThisOptionToHaveASurprise" name="Pibby Corrupted SecrEt!!??" desc="This is a Big SurPriSe >:))"/>
+</menu>

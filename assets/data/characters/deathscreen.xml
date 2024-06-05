@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" x="10" camx="190" camy="-50" icon="bf" color="#31b0d1" scale="0.75" sprite="PA/deathscreen">
+	<!-- Converted by FNF Moddin' Tools -->
+	<anim name="firstDeath" anim="deathscreen first" fps="24" loop="false" x="1" y="0"/>
+	<anim name="deathLoop" anim="deathscreen deathloop" fps="24" loop="true" x="1" y="0"/>
+	<anim name="deathConfirm" anim="deathscreen confirm" fps="24" loop="false" x="410" y="188"/>
+</character>

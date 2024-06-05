@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 200,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -16724225,
+	"displayName": "My Amazing World",
+	"icon": "Pibby Apocalypse/gumball",
+	"name": "My-Amazing-World",
+	"color": "#00CEFF",
+	"threatLevel": "45"
+}

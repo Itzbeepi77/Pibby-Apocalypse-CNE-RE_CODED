@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 150,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -15167027,
+	"displayName": "No-Hero-Remix",
+	"icon": "Pibby Apocalypse/finnbad",
+	"name": "No-Hero-Remix",
+	"color": "#1891CD",
+	"threatLevel": "83"
+}

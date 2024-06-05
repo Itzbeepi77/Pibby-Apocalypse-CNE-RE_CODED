@@ -1,0 +1,28 @@
+<!DOCTYPE codename-engine-character>
+<character x="-25" isGF="false" y="453" icon="Pibby Apocalypse/darwin" camx="0" scale="1.4" camy="0" isPlayer="true" flipX="true" sprite="PA/darwin-noremote" color="#FF9100" gameOverChar="darwin-noremote">
+	<anim loop="false" x="-15" anim="Darwin down0" fps="24" y="-47" name="singDOWN"/>
+
+	<anim loop="false" x="-31" anim="Right-miss" fps="24" y="11" name="singRIGHTmiss"/>
+
+	<anim loop="false" x="-26" anim="Darwin up0" fps="24" y="50" name="singUP"/>
+
+	<anim loop="false" x="123" anim="Left-Miss" fps="24" y="-2" name="singLEFTmiss"/>
+
+	<anim x="-5" loop="false" y="0" fps="24" anim="Darwin Idle" name="idle" indices="0,1,2,3,4,5,6,7,8,9,10,11,12"/>
+	
+	<anim x="-5" loop="false" y="0" fps="24" anim="Darwin Idle" name="idle-blink" indices="12,13,14,15,16,17,18,19,20,21,22,22"/>
+
+	<anim loop="false" x="-29" anim="Darwin right0" fps="24" y="-8" name="singRIGHT"/>
+
+	<anim loop="false" x="-2" anim="Down-miss" fps="24" y="-28" name="singDOWNmiss"/>
+
+	<anim loop="false" x="-29" anim="Up-miss" fps="24" y="67" name="singUPmiss"/>
+
+	<anim loop="false" x="131" anim="Darwin left0" fps="24" y="-9" name="singLEFT"/>
+
+	<anim x="1" loop="false" y="18" fps="24" anim="Darwin-die" name="firstDeath"/>
+
+	<anim x="-55" loop="false" y="10" fps="24" anim="Darwin-dead-loop" name="deathLoop"/>
+
+	<anim x="1" loop="false" y="79" fps="24" anim="Darwin-dead-confirm" name="deathConfirm"/>
+</character>

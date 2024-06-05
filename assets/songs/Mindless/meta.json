@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 163,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -8816263,
+	"displayName": "Mindless",
+	"icon": "Pibby Apocalypse/finn",
+	"name": "Mindless",
+	"color": "#797979",
+	"threatLevel": "85"
+}

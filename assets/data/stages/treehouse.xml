@@ -1,0 +1,26 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/treehouse/" name="treehouse" zoom="0.8">
+	<sprite x="900" updateHitbox="true" scroll="1" sprite="intro/IMG_8337" y="1450" name="bgHeaven"/>
+	<sprite x="900" updateHitbox="true" scroll="1" sprite="intro/Ilustracion_sin_titulo-3" y="1450" name="uhhIdfk"/>
+	<sprite x="840" updateHitbox="true" scroll="1" sprite="intro/Ilustracion_sin_titulo-2" y="1500" name="things"/>
+
+	<sprite x="1200" updateHitbox="true" scroll="1" sprite="reveal/BackGlitch" y="1800" scale="0.7" name="bgGlitch" alpha="0.0001"/>
+	<sprite x="1200" updateHitbox="true" scroll="1" sprite="reveal/AboveGlitch" y="1800" scale="0.7" name="lightG" alpha="0.0001"/>
+	<sprite x="1200" updateHitbox="true" scroll="1" sprite="reveal/HillStuff" y="1800" scale="0.7" name="hill" alpha="0.0001"/>
+	<sprite x="1200" updateHitbox="true" scroll="1" sprite="reveal/Particles" y="1800" scale="0.7" name="particles" alpha="0.0001"/>
+	<sprite x="1500" updateHitbox="true" scroll="1" sprite="reveal/Dangling" y="1800" scale="0.5" name="dangling" alpha="0.0001"/>
+	<sprite x="1200" updateHitbox="true" scroll="1" sprite="reveal/Corruption" y="1800" scale="0.7" name="corruption" alpha="0.0001"/>
+	
+	<sprite x="-75" updateHitbox="true" scroll="1" sprite="back" y="-150" scale="1.5" name="bg" alpha="0.0001"/>
+	<sprite x="-75" updateHitbox="true" scroll="1" sprite="tree" y="-150" scale="1.5" name="treehouse" alpha="0.0001"/>
+
+	<gf alpha="0" x="2900" scroll="1" y="1930"/>
+	<dad x="1997.75" y="1895.75"/>
+	<boyfriend x="2945.25" y="1818.25" alpha="0.0001"/>
+	<!--<sprite x="-550" updateHitbox="true" scroll="0" sprite="Lighting" y="-800" name="thunder" alpha="0.001"/>
+	<sprite x="-1200" updateHitbox="true" scroll="0" sprite="Rain" y="-800" name="rain" alpha="0.001" scale="1.2"/>-->
+
+	<sprite x="-500" updateHitbox="true" scroll="0" sprite="reveal/CameraShtuff" y="-100" name="camOverlay"/>
+	
+	<combo x="2842.25" y="2085.75"/>
+</stage>

@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" sprite="PA/BF_Intro" isGF="false" y="350" icon="bf" isPlayer="true" flipX="true" color="#04D4F9">
+	<anim loop="false" x="-4" anim="BF 1" fps="24" y="150" name="1"/>
+
+	<anim loop="false" x="-73" anim="BF 2" fps="24" y="35" name="2"/>
+
+	
+	<anim loop="false" x="-61" anim="BF 3" fps="24" y="120" name="3"/>
+
+	
+	<anim loop="false" x="-5" anim="BF Go" fps="24" y="20" name="go"/>
+</character>

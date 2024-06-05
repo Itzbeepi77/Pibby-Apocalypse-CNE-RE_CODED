@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="-70" isGF="false" y="190" camx="-70" icon="Pibby Apocalypse/finnbad" camy="20" isPlayer="false" color="#868686" scale="1.2" sprite="PA/badfinn">
+	<anim loop="false" x="-186" anim="finn down" fps="24" y="-190" name="singDOWN"/>
+
+	<anim loop="false" x="-126" anim="finn up" fps="24" y="37" name="singUP"/>
+
+	<anim loop="false" x="-5" anim="finn idle" fps="24" y="-90" name="idle"/>
+
+	<anim loop="false" x="-173" anim="finn right" fps="24" y="-86" name="singRIGHT"/>
+
+	<anim loop="false" x="122" anim="finn left" fps="24" y="-87" name="singLEFT"/>
+
+	<anim loop="false" x="-228" anim="finn attack" fps="24" y="33" name="slash"/>
+</character>

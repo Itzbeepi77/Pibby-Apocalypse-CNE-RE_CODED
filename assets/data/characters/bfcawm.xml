@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" sprite="PA/COME_ALONG_BF" isGF="false" y="350" icon="bf" isPlayer="true" flipX="true" color="#04D4F9">
+	<anim loop="false" x="-6" anim="Bf Down0" fps="24" y="-7" name="singDOWN"/>
+
+	<anim loop="false" x="-24" anim="Bf R Miss0" fps="24" y="-2" name="singRIGHTmiss"/>
+
+	<anim loop="false" x="-14" anim="Bf Up0" fps="24" y="9" name="singUP"/>
+
+	<anim loop="false" x="15" anim="Bf L Miss0" fps="24" y="-6" name="singLEFTmiss"/>
+
+	<anim loop="false" x="7" anim="BF HEY" fps="24" y="4" name="hey"/>
+
+	<anim loop="false" x="-5" anim="Bf Idle0" fps="24" y="0" name="idle"/>
+
+	<anim loop="false" x="-20" anim="Bf Right0" fps="24" y="-10" name="singRIGHT"/>
+
+	<anim loop="false" x="-1" anim="Bf D Miss0" fps="24" y="-9" name="singDOWNmiss"/>
+
+	<anim loop="false" x="-24" anim="Bf U Miss0" fps="24" y="7" name="singUPmiss"/>
+
+	<anim loop="false" x="-10" anim="Bf Left0" fps="24" y="-6" name="singLEFT"/>
+</character>

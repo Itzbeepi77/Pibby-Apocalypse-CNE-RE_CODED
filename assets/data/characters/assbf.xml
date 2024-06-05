@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" sprite="PA/assbf" isGF="false" y="350" icon="bf" isPlayer="true" flipX="true" color="#04D4F9">
+	<anim loop="false" x="-143" anim="bd0" fps="24" y="-99" name="singDOWN"/>
+
+	<anim loop="false" x="-121" anim="bu0" fps="24" y="27" name="singUP"/>
+
+		<anim loop="false" x="-156" anim="dodge0" fps="24" y="10" name="dodge"/>
+
+	<anim loop="false" x="-61" anim="hurt0" fps="24" y="154" name="hurt"/>
+
+	<anim loop="false" x="-5" anim="bi" fps="24" y="0" name="idle"/>
+
+	<anim loop="false" x="-106" anim="br0" fps="24" y="-13" name="singLEFT"/>
+
+	<anim loop="false" x="-186" anim="bl0" fps="24" y="4" name="singRIGHT"/>
+</character>

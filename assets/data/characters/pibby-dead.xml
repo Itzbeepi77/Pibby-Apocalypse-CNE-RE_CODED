@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" x="10" y="340" camx="-900" camy="-425" icon="bf" color="#31b0d1" sprite="PA/Pibby_Death">
+	<!-- Converted by FNF Moddin' Tools -->
+	<anim name="firstDeath" anim="death" fps="24" loop="false" x="0" y="0"/>
+	<anim name="deathConfirm" anim="confirm" fps="24" loop="false" x="-2" y="70"/>
+	<anim name="deathLoop" anim="death" indices="122,123" fps="24" loop="true" x="0" y="0"/>
+</character>

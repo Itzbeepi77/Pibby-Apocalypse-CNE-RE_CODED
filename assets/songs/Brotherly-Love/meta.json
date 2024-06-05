@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 197,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -1049856,
+	"displayName": "Brotherly Love",
+	"icon": "Pibby Apocalypse/jake",
+	"name": "Brotherly-Love",
+	"color": "#EFFB00",
+	"threatLevel": "80"
+}

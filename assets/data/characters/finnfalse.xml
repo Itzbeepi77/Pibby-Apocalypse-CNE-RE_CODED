@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="-70" isGF="false" y="124" camx="20" icon="Pibby Apocalypse/finn" camy="80" isPlayer="false" color="#000000" sprite="PA/finnfalse">
+	<anim loop="false" x="-5" anim="finn idle" fps="24" y="-90" name="idle"/>
+
+    	<anim loop="false" x="-2" anim="finn laugh" fps="24" y="-44" name="laugh"/>
+</character>

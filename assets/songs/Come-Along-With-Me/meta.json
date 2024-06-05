@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 180,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -10132123,
+	"displayName": "Come Along With Me",
+	"icon": "Pibby Apocalypse/finn",
+	"name": "Come-Along-With-Me",
+	"color": "#656565",
+	"threatLevel": "75"
+}

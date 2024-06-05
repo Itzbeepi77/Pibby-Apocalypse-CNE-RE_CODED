@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 180,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -7162158,
+	"displayName": "Suffering Siblings",
+	"icon": "Pibby Apocalypse/finn",
+	"name": "Suffering-Siblings",
+	"color": "#92B6D2",
+	"threatLevel": "95"
+}

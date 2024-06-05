@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="-739" icon="Pibby Apocalypse/finn" camx="329" y="-90" isGF="false" scale="1.5" camy="223" isPlayer="false" sprite="PA/finnAnim">
+	<anim x="-314" loop="false" y="-101" fps="24" anim="Finn Animation yez" name="idle" indices="0"/>
+	<anim x="-314" loop="false" y="-101" fps="24" anim="Finn Animation yez" name="lesgo"/>
+</character>

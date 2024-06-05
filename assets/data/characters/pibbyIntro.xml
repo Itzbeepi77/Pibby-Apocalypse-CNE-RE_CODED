@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="-25" isGF="false" y="300" icon="Pibby Apocalypse/pibby" camx="-420" camy="-20" isPlayer="false" flipX="false" sprite="PA/Pibby_Intro">
+	<anim loop="false" x="-5" anim="Pibby Go" fps="24" y="0" name="go"/>
+
+	<anim loop="false" x="16" anim="Pibby 1" fps="24" y="11" name="1"/>
+
+	<anim loop="false" x="39" anim="Pibby 2" fps="24" y="175" name="2"/>
+
+	<anim loop="false" x="14" anim="Pibby 3" fps="24" y="29" name="3"/>
+</character>

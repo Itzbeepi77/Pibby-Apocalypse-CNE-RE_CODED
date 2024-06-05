@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="lab-nh" folder="stages/lab-nh/">
+
+	<sprite name="bgNh" x="-300" y="-200" sprite="place" scroll="1" scale="1" alpha="0.0001"/>
+	<sprite name="bg" x="-300" y="-200" sprite="bgnoherofull" scroll="1" scale="1"/>
+
+	<gf alpha="0.0001"/>
+	<dad/>
+	<boyfriend x="900"/>
+	<sprite name="nhcutscene" x="-195" y="-10" sprite="noherocutscenefirst" scroll="1" scale="1.05"/>
+
+
+</stage>
