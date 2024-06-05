@@ -50,10 +50,10 @@ function stepHit(){
     
         case 464: 
             defaultCamZoom = 0.9;
+            timeTxt.font = Paths.font('fpsFont.ttf');
             FlxTween.tween(camHUD, {alpha: 1}, 1.5, {ease: FlxEase.sineInOut});
             camGame.flash(FlxColor.WHITE, 1);
             if (Options.gameplayShaders) cpuStrums.forEach(yeah -> yeah.shader = null);
-            timeTxt.font = Paths.font('fpsFont.ttf');
             if (CNlogo != null) CNlogo.alpha = 0;
             disableCamMove = true;
             camGame.removeShader(aberration);
