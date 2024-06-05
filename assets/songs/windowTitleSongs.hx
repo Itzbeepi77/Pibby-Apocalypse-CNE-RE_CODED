@@ -9,7 +9,7 @@ function postCreate(){
             window.title = windowTitle + " - By Kylevi";
         case "suffering-siblings":
             window.title = windowTitle + " - By Awe (Ft. Saster & Shxdow)";
-        case "come-along-with-me", "forgotten-world", "my-finale":// will add child's play v2 later if I want to
+        case "come-along-with-me", "forgotten-world":// will add child's play v2 and my finale later if I want to
             window.title = windowTitle + " - By Awe";
         case "childs-play":
             window.title = windowTitle + " - By Yoosuf Meekail";
