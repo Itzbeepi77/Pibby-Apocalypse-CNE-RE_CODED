@@ -11,16 +11,34 @@ function postCreate(){
         CNlogo.y = 360;
         CNlogo.loadGraphic(Paths.image("aslogo"));
         CNlogo.setGraphicSize(Std.int(CNlogo.width * 0.09));
+        
+        if (downscroll){
+            CNlogo.y -= 360;
+        } else {
+            CNlogo.y = 500;
+        }
     } else if (timDate.getHours() >= 1 && timDate.getHours() <= 6){
         CNlogo.x = 450;
         CNlogo.y = 360;
         CNlogo.loadGraphic(Paths.image("aslogo"));
         CNlogo.setGraphicSize(Std.int(CNlogo.width * 0.09));
+        
+        if (downscroll){
+            CNlogo.y -= 360;
+        } else {
+            CNlogo.y = 500;
+        }
     } else if (timDate.getHours() >= 6 && timDate.getHours() <= 17){
         CNlogo.loadGraphic(Paths.image("cnlogo"));
         CNlogo.setGraphicSize(Std.int(CNlogo.width * 0.17));
         CNlogo.x = 675;
         CNlogo.y = 240;
+
+        if (downscroll){
+            CNlogo.y -= 360;
+        } else {
+            CNlogo.y = 410;
+        }
     }
     CNlogo.scrollFactor.set();
     CNlogo.alpha = 0.5;
@@ -40,10 +58,4 @@ function postCreate(){
     countNum.cameras = [camHUD2];
     countNum.antialiasing = true;
 	insert(members.indexOf(boyfriend)+1, countNum);
-    
-    if (downscroll){
-        CNlogo.y -= 360;
-    } else {
-        CNlogo.y = 360;
-    }
 }

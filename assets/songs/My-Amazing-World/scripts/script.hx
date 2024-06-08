@@ -1,4 +1,3 @@
-import openfl.Lib;
 import openfl.geom.Rectangle;
 import openfl.text.TextFormat;
 import flixel.text.FlxTextBorderStyle;
@@ -9,25 +8,26 @@ var oldMonitor = new CustomShader("monitor");
 var vhs = new CustomShader("MAWVHS");
 var channelTxt:FlxText;
 
-
-function create(){
-    camera.alpha = 0.001;
-    camHUD.alpha = 0.001;
-
-    oldMonitor.zoom = 100;
-
-    channelTxt = new FlxText(-400, 90, FlxG.width, "", 20);
+function postCreate(){
+    channelTxt = new FlxText(-400, 90, FlxG.width, "", 56);
     channelTxt.setFormat(Paths.font('fpsFont.ttf'), 56, FlxColor.LIME, "center", FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
     channelTxt.scrollFactor.set();
     channelTxt.borderSize = 1.25;
     channelTxt.cameras = [camHUD2];
     add(channelTxt);
 }
+function create(){
+    camera.alpha = 0.001;
+    camHUD.alpha = 0.001;
+
+    oldMonitor.zoom = 100;
+}
 function onSongStart() {
     camera.alpha = 1;
     camHUD.alpha = 1;
     camHUD.flash(FlxColor.BLACK, 10);
 }
+
 function changeChannel(number:Int){
     switch (number)
         {

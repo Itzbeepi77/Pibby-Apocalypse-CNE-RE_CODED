@@ -41,7 +41,7 @@ function beatHit(curBeat){
 function onPlayerMiss(e){
     if (e.noteType == "" || e.noteType == null) return;// hell yeah the real mechanic of finn&jake hpBar
     
-    if (e.noteType == "Dodge Note"){
+    if (e.noteType == "Dodge Note" || e.noteType == "Sword-parry Note"){
         hitSHits++;
         if (hitSHits == 1){
             bar.animation.play("bar2");

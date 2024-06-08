@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character x="-321" isGF="false" y="-30" icon="Pibby Apocalypse/finn" camx="-275" scale="0.75" camy="-57" isPlayer="false" flipX="false" sprite="PA/Fake_Finn">
+<character x="-321" isGF="false" y="-30" icon="Pibby Apocalypse/finn" camx="-275" scale="0.75" color="#868686" camy="-57" isPlayer="false" flipX="false" sprite="PA/Fake_Finn">
 	<anim loop="false" x="179" anim="Down" fps="24" y="6" name="singDOWN"/>
 
 	<anim loop="false" x="176" anim="Up" fps="24" y="41" name="singUP"/>

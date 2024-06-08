@@ -1,12 +1,30 @@
 <!DOCTYPE codename-engine-character>
-<character x="-120" isGF="false" y="0" camx="-80" icon="Pibby Apocalypse/finn" camy="100" isPlayer="false" color="#868686" sprite="PA/Finn-sword">
-	<anim loop="false" x="-66" anim="Down" fps="24" y="-296" name="singDOWN"/>
+<character x="-120" icon="Pibby Apocalypse/finn" camx="-160" y="0" isGF="false" camy="-20" color="#868686" isPlayer="false" sprite="PA/Finn-sword_newV2">
+	<anim x="-66" loop="false" y="-296" fps="24" anim="Down" name="singDOWN"/>
 
-	<anim loop="false" x="14" anim="Up" fps="24" y="277" name="singUP"/>
+	<anim x="29" loop="false" y="284" fps="24" anim="Up" name="singUP"/>
 
-	<anim loop="false" x="-5" anim="Idle" fps="24" y="-90" name="idle"/>
+	<anim x="-5" loop="false" y="-90" fps="24" anim="Idle" name="idle"/>
 
-	<anim loop="false" x="-68" anim="Right" fps="24" y="-66" name="singRIGHT"/>
+	<anim x="-68" loop="false" y="-66" fps="24" anim="Right" name="singRIGHT"/>
 
-	<anim loop="false" x="378" anim="Left" fps="24" y="-77" name="singLEFT"/>
+	<anim x="378" loop="false" y="-77" fps="24" anim="Left" name="singLEFT"/>
+
+	<anim loop="false" x="310" anim="Hurt2" fps="24" y="89" name="singDOWN-hurt"/>
+
+	<anim loop="false" x="310" anim="Hurt1" fps="24" y="21" name="singUP-hurt"/>
+
+	<anim loop="false" x="310" anim="Hurt2" fps="24" y="89" name="singRIGHT-hurt"/>
+
+	<anim loop="false" x="310" anim="Hurt1" fps="24" y="20" name="singLEFT-hurt"/>
+
+	<anim x="473" loop="false" y="110" fps="24" anim="Charge" name="idle-alt"/>
+<!--to make it worked on alt anim toogle >:))-->
+	<anim x="-73" loop="false" y="237" fps="24" anim="Hit" name="singDOWN-slash"/>
+
+	<anim x="21" loop="false" y="57" fps="24" anim="Second-Hit" name="singUP-slash"/>
+
+	<anim x="-73" loop="false" y="237" fps="24" anim="Hit" name="singRIGHT-slash"/>
+
+	<anim x="21" loop="false" y="57" fps="24" anim="Second-Hit" name="singLEFT-slash"/>
 </character>

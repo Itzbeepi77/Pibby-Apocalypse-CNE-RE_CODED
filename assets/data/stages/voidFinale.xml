@@ -1,0 +1,25 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/voidFinale/" zoom="0.7">
+	<sprite x="-392" scrolly="0.85" sprite="void" y="-350" scale="2.5" name="void" scrollx="0.85"/>
+	<sprite x="-798.5" scrolly="0.9" sprite="2b" y="-170.5" scale="1.75" name="glitchMF" scrollx="0.9"/>
+	<sprite x="-423.25" y="-634.75" sprite="3" scale="1.75" name="house"/>
+	<sprite x="-209.25" y="-707.75" sprite="5" name="rock_mf"/>
+	<sprite x="310.5" sprite="Ilustracion_sin_titulo-2" y="-161" scale="2.5" name="glitch_shit"/>
+	<sprite x="-39.5" sprite="Ilustracion_sin_titulo-5" y="460.5" scale="2.5" name="rock_shit"/>
+	<sprite x="-1725.75" sprite="Ilustracion_sin_titulo-6" y="-237.25" scale="1.75" name="rock2"/>
+	<sprite x="57.5" scrolly="0.8" sprite="Ilustracion_sin_titulo-7" y="-527.5" scale="1.75" name="rock3" scrollx="0.8"/>
+	<sprite x="1817.875" scrolly="1.1" sprite="Ilustracion_sin_titulo-6" y="-178.125" scale="2" name="rock4" scrollx="1.1">
+		
+		
+		<property type="bool" name="flipX" value="true"/>
+		
+	
+	</sprite>
+	<sprite x="379.25" sprite="rooftop" y="928.75" scale="2.5" name="rooftop"/>
+	<gf/>
+	<dad x="165" y="153"/>
+	<bf x="1059.5" y="144.5"/>
+	<combo x="576.5" y="531.5"/>
+	<sprite x="-682.25" y="-471.75" sprite="7" scale="1.85" name="glitchOvr"/>
+	<sprite x="74.5" y="-28" sprite="Ilustracion_sin_titulo-9" scale="4.2" name="glitchTop"/>
+</stage>

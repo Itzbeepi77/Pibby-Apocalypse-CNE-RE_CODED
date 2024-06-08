@@ -6,7 +6,7 @@ function stepHit(curStep){
             }});
             
         case 1456:
-            FlxTween.num(198390, inst.length, 2.5, {onUpdate: function(v:FlxTween){
+            FlxTween.num(198390, inst.length, 3, {onUpdate: function(v:FlxTween){
                 songLength = v.value;
             }});
     }

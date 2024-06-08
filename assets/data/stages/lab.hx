@@ -90,6 +90,7 @@ function postUpdate(){
 }
 
 function onCameraMove(e){
+    if (curSong == "suffering-siblings") return;
     switch(curCameraTarget){
         case 0:
             curSong = "brotherly-love"? defaultCamZoom = 1: defaultCamZoom = 0.9;

@@ -76,7 +76,7 @@ function create(){
     aweTxt.alpha = 1;
     aweTxt.antialiasing = true;
     add(aweTxt);
-    verTxt = new FlxText(0, FlxG.height - 65, 0, 'PIBBY: APOCALYPSE DEMO {CNE PORT} - V0.5 [RE-CODED]', 8);
+    verTxt = new FlxText(0, FlxG.height - 65, 0, 'PIBBY: APOCALYPSE DEMO {CNE PORT} - V0.7.15 [RE-CODED]', 8);
     verTxt.setFormat(Paths.font("vcr.ttf"), 24, FlxColor.WHITE, "left");
     verTxt.alpha = 1;
     verTxt.antialiasing = true;
@@ -131,18 +131,6 @@ function update(elapsed){
         tvTime += elapsed;
         vcr.iTime = tvTime;
     }
-    /*if (controls.SWITCHMOD) {
-        openSubState(new ModSwitchMenu());
-        persistentUpdate = false;
-        persistentDraw = true;
-    }
-    if (canAccessDebugMenus) {
-        if (FlxG.keys.justPressed.SEVEN) {
-            persistentUpdate = false;
-            persistentDraw = true;
-            openSubState(new EditorPicker());
-        }
-    }*/
     if (controls.BACK){
 		FlxG.switchState(new TitleState());
     }
@@ -208,7 +196,7 @@ function selectItem(){
                 {
                     case 'FREEPLAY':
                         FlxG.switchState(new FreeplayState());
-                        //FlxG.sound.playMusic(Paths.music('fpmenu'));
+                        trace("FreePlay Menu Selected");
                     case 'CREDITS':
                         FlxG.switchState(new ModState("CreditsPibbyMenu"));
                         trace("Credits Menu Selected");
