@@ -18,7 +18,6 @@ import openfl.Lib;
 import flixel.FlxG;
 import funkin.options.Options;
 
-static var isFinnBar:Bool = true;
 static var songLength:Float = 0;
 
 static var sicks:Int = 0;
@@ -113,7 +112,6 @@ function create() {
 
     timeBarBG.x = timeBar.x - 4;
     timeBarBG.y = timeBar.y - 4;
-    hudTxt.x += (!isFinnBar? 50 : 0);
 
     hudTxt.cameras = [camHUD];
     timeBar.cameras = [camHUD];
