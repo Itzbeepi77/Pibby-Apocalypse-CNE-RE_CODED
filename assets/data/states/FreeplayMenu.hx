@@ -127,14 +127,14 @@ function create(){
     
 	songText = new FlxTypeText(image.x, image.y + 35, FlxG.width * 1, songList[curSelected].displayName);
 	songText.antialiasing = true;
-	songText.setFormat(Paths.font("vcr.ttf"), 64, FlxColor.WHITE, "center");
+	songText.setFormat(Paths.font("menuFont.ttf"), 64, FlxColor.WHITE, "center");
 	songText.blend = "ADD";
 	if (Options.gameplayShaders) songText.shader = bloom;
 	add(songText);
 
 	artistText = new FlxTypeText(songText.x, songText.y + 80, FlxG.width * 1, getSongArtist(songList[curSelected].displayName).toUpperCase());
 	artistText.antialiasing = true;
-	artistText.setFormat(Paths.font("vcr.ttf"), 36, FlxColor.WHITE, "center");
+	artistText.setFormat(Paths.font("menuFont.ttf"), 36, FlxColor.WHITE, "center");
 	artistText.blend = "ADD";
 	if (Options.gameplayShaders) artistText.shader = bloom;
 	add(artistText);
@@ -161,7 +161,7 @@ function create(){
 	FlxTween.tween(gradient, {alpha: 1}, 1, {ease: FlxEase.sineInOut, type: FlxTween.PINGPONG});
 
     dogeTxt = new FlxText(0, FlxG.height - 50, 0, "♪ Now Playing: Freeplay Theme - By Doge ♪", 8);
-    dogeTxt.setFormat(Paths.font("vcr.ttf"), 24, FlxColor.WHITE, "left");
+    dogeTxt.setFormat(Paths.font("menuFont.ttf"), 24, FlxColor.WHITE, "left");
     dogeTxt.alpha = 0;
     dogeTxt.antialiasing = true;
     add(dogeTxt);

@@ -48,17 +48,17 @@ function create(){
     bg.screenCenter();
 
     creditsText = new FlxText(20, 20, 0, '< BACK', 30);
-    creditsText.setFormat(Paths.font("vcr.ttf"), 54, FlxColor.WHITE, "left");
+    creditsText.setFormat(Paths.font("menuFont.ttf"), 54, FlxColor.WHITE, "left");
     add(creditsText);
 
     currentGroup = new FlxText(0, 0, 0, "", 70);
-    currentGroup.setFormat(Paths.font("vcr.ttf"), 70, FlxColor.WHITE, "left", FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+    currentGroup.setFormat(Paths.font("menuFont.ttf"), 70, FlxColor.WHITE, "left", FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
     currentGroup.borderSize = 1.5;
     currentGroup.screenCenter();
     add(currentGroup);
 
     quoteText = new FlxText(20, 0, 0, "", 20);
-    quoteText.setFormat(Paths.font("vcr.ttf"), 20, FlxColor.WHITE, "left", FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+    quoteText.setFormat(Paths.font("menuFont.ttf"), 20, FlxColor.WHITE, "left", FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
     quoteText.borderSize = 1.5;
     quoteText.screenCenter();
     add(quoteText);

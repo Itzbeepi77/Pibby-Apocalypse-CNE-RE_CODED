@@ -72,12 +72,12 @@ function create(){
 
     aweTxt = new FlxText(0, FlxG.height - 35, 0,
         'Now Playing: Menu Theme' + (funnyMenuMusic == "2" ? '(Alt)' : '') + ' - By ' + (funnyMenuMusic == "2" ? 'Sodukoru' : 'GoddessAwe') + '♪', 8);
-    aweTxt.setFormat(Paths.font("vcr.ttf"), 24, FlxColor.WHITE, "left");
+    aweTxt.setFormat(Paths.font("menuFont.ttf"), 24, FlxColor.WHITE, "left");
     aweTxt.alpha = 1;
     aweTxt.antialiasing = true;
     add(aweTxt);
     verTxt = new FlxText(0, FlxG.height - 65, 0, 'PIBBY: APOCALYPSE DEMO {CNE PORT} - V0.7.15 [RE-CODED]', 8);
-    verTxt.setFormat(Paths.font("vcr.ttf"), 24, FlxColor.WHITE, "left");
+    verTxt.setFormat(Paths.font("menuFont.ttf"), 24, FlxColor.WHITE, "left");
     verTxt.alpha = 1;
     verTxt.antialiasing = true;
     add(verTxt);
@@ -89,7 +89,7 @@ function create(){
         var i = optionShit.length - i2 - 1;
 
         text = new FunkinText(FlxG.width - 240 - (i2 * 720), 25, 0, upper(optionShit[i]), 48);
-        text.font = Paths.font('vcr.ttf');
+        text.font = Paths.font('menuFont.ttf');
         text.borderStyle = FlxTextBorderStyle.NONE;
         text.alpha = 0.4;
         optionShit.ID = i;
