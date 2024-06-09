@@ -9,6 +9,28 @@ function create(){
 	pAngy.alpha = 0.000000001;
 }
 function stepHit(curStep){
+	switch(curStep){// zoom tweening shit
+		case 240, 248, 2448, 2456, 3088, 3092:
+			FlxTween.tween(camera, {zoom: 1.2}, 0.000001, {ease:FlxEase.quadInOut, onComplete: function(twn){defaultCamZoom = 1.2;}});
+		case 243, 2452, 3096:
+			FlxTween.tween(camera, {zoom: 1.3}, 0.000001, {ease:FlxEase.quadInOut, onComplete: function(twn){defaultCamZoom = 1.3;}});
+		case 251, 2460, 3100:
+			FlxTween.tween(camera, {zoom: 1.1}, 0.000001, {ease:FlxEase.quadInOut, onComplete: function(twn){defaultCamZoom = 1.1;}});
+
+		case 544, 560, 1968, 1990, 3264:
+			FlxTween.tween(camera, {zoom: 1}, 0.01, {ease:FlxEase.quadInOut, onComplete: function(twn){defaultCamZoom = 1;}});
+		case 552:
+			FlxTween.tween(camera, {zoom: 1.1}, 0.01, {ease:FlxEase.quadInOut, onComplete: function(twn){defaultCamZoom = 1.1;}});
+		case 3272:
+			FlxTween.tween(camera, {zoom: 0.9}, 0.01, {ease:FlxEase.quadInOut, onComplete: function(twn){defaultCamZoom = 0.9;}});
+
+		case 608, 3328:
+			FlxTween.tween(camera, {zoom: 1.2}, 0.01, {ease:FlxEase.quadInOut, onComplete: function(twn){defaultCamZoom = 1.2;}});
+		case 616:
+			FlxTween.tween(camera, {zoom: 1.3}, 0.01, {ease:FlxEase.quadInOut, onComplete: function(twn){defaultCamZoom = 1.3;}});
+		case 624, 3336:
+			FlxTween.tween(camera, {zoom: 1.1}, 0.01, {ease:FlxEase.quadInOut, onComplete: function(twn){defaultCamZoom = 1.1;}});
+	}
 	if (curStep == 2080){
         stage.getSprite("bg").alpha = 0.001;
         
