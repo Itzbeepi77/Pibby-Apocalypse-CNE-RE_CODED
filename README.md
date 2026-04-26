@@ -1,5 +1,5 @@
 # Pibby-Apocalypse-RE_CODED
- the journey is end..
+ the journey has ended..
 
  the whole brand new of P:A CNE port (the old one was stinky as shits)
  this port took you to the really accurate experience from the original mod (like really more accurate now, trust me)
