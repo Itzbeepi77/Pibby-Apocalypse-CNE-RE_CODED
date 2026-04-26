@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="HotDogGuy1.png" width="1185" height="1099">
+  <SubTexture name="HotDogGuy Idle0001.png" x="0" y="0"  width="292" height="511" frameX="-331" frameY="-23" frameWidth="950" frameHeight="534"/>
+  <SubTexture name="HotDogGuy Idle0002.png" x="292" y="0"  width="292" height="510" frameX="-331" frameY="-24" frameWidth="950" frameHeight="534"/>
+  <SubTexture name="HotDogGuy Idle0003.png" x="0" y="511" width="510" height="293" rotated="true"  frameX="-330" frameY="-24" frameWidth="950" frameHeight="534"/>
+  <SubTexture name="HotDogGuy Idle0000.png" x="584" y="0"  width="294" height="509" frameX="-329" frameY="-25" frameWidth="950" frameHeight="534"/>
+  <SubTexture name="HotDogGuy Idle0004.png" x="0" y="804" width="507" height="295" rotated="true"  frameX="-328" frameY="-27" frameWidth="950" frameHeight="534"/>
+  <SubTexture name="HotDogGuy Idle0005.png" x="510" y="510"  width="301" height="501" frameX="-322" frameY="-33" frameWidth="950" frameHeight="534"/>
+  <SubTexture name="HotDogGuy Idle0007.png" x="878" y="0"  width="307" height="497" frameX="-318" frameY="-37" frameWidth="950" frameHeight="534"/>
+  <SubTexture name="HotDogGuy Idle0006.png" x="811" y="509"  width="310" height="496" frameX="-316" frameY="-38" frameWidth="950" frameHeight="534"/>
+</TextureAtlas>

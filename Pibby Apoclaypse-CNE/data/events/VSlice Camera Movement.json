@@ -1,0 +1,52 @@
+{
+    "params": [
+        {
+            "name": "Target",
+            "type": "StrumLine",
+            "defaultValue": 0
+        },
+        {
+            "name": "Stage Position instead of Position Offset\nIf activated, Will set to the X and Y coordinates instead of offsetting the cam position",
+            "type": "Bool",
+            "defaultValue": false
+        },
+        {
+            "name": "X Offset",
+            "type": "Float(-10000,10000,0.01,1)",
+            "defaultValue": 0
+        },
+        {
+            "name": "Y",
+            "type": "Float(-10000,10000,0.01,1)",
+            "defaultValue": 0
+        },
+        {
+            "name": "Duration(steps)",
+            "type": "String",
+            "defaultValue": 16
+        },
+        {
+            "name": "Easing Style",
+            "type": "DropDown('Linear (Ignores Direction)',
+            'Instant (Ignores Duration and Direction)',
+            'Classic (Ignores Duration and Direction)',
+            'Sine',
+            'Quad',
+            'Cube',
+            'Quart',
+            'Quint',
+            'Expo',
+            'Smooth Step',
+            'Elastic')",
+            "defaultValue": "Classic (Ignores Duration and Direction)"
+        },
+        {
+            "name": "Easing Direction",
+            "type": "DropDown(
+            'In',
+            'Out', 
+            'In/Out')",
+            "defaultValue": "Out"
+        }
+    ]
+}

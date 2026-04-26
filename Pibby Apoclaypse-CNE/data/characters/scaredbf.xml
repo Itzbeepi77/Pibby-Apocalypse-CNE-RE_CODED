@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="scaredbf" icon="bf" color="#31b0d1" x="-434" y="-240" flipX="true" isPlayer="true" camx="-125" camy="500" holdTime="6.09999999999999" scale="1">
+	<anim name="idle" anim="scaredbf Idle" x="203.84615384615384" y="-385.38461538461536" loop="true"/>
+	<anim name="singUP" anim="scaredbf Up" x="205.3846153846154" y="-389.2307692307692" fps="20"/>
+	<anim name="singRIGHT" anim="scaredbf Right" x="202.3076923076923" y="-386.15384615384613" fps="20"/>
+	<anim name="singLEFT" anim="scaredbf Left" x="210.76923076923077" y="-388.46153846153845" fps="20"/>
+	<anim name="singDOWN" anim="scaredbf Down" x="197.69230769230768" y="-381.53846153846155" fps="20"/>
+</character>

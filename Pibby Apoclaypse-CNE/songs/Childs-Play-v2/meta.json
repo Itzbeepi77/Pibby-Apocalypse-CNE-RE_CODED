@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 180,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": false,
+	"parsedColor": -16737281,
+	"displayName": "Child's Play",
+	"icon": "Pibby Apocalypse/gumball_fake",
+	"name": "Childs-Play-v2",
+	"color": "#009BFF",
+	"customValues": {}
+}

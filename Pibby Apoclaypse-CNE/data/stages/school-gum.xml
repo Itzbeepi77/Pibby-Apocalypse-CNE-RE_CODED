@@ -1,0 +1,66 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="1200" startCamPosY="740" folder="stages/school-Gum/" name="school-gum" zoom="0.9">
+	<sprite x="150" y="200" sprite="Ilustracion_sin_titulo-1" scale="1.3" name="bg"/>
+	<sprite x="835" y="360" sprite="droplet" scroll="1" alpha="0.0001" scale="1.35" name="droplet"/>
+	<sprite x="800" y="350" sprite="droplet2" alpha="0" name="droplet2"/>
+	<sprite x="625" y="670" sprite="sinkgoop" scroll="1" alpha="0.0001" scale="1.7" name="sinkgoop"/>
+
+	<sprite x="332" sprite="penny" y="290" updateHitbox="true" alpha="0.001" scale="1.15" name="c_penny">
+		<anim loop="true" fps="6" anim="idle" name="idle"/>
+	</sprite>
+
+	<sprite x="833" sprite="BG_chars/tobias" y="530" scale="1.3" type="loop" name="tobias"/>
+	<sprite x="1016" sprite="BG_chars/Allan" y="424" scale="1.35" type="loop" name="allan"/>
+
+	<sprite x="150" sprite="BG_chars/Carrie" y="359" scale="0.9" alpha="0.7" type="none" name="carrie">
+		<anim x="0" loop="true" y="0" fps="10" anim="Carrie Idl" type="loop" name="idle"/>
+	</sprite>
+
+	<sprite x="1464" sprite="BG_chars/Masami" y="453" scale="1.2" type="loop" name="masami"/>
+	<sprite x="1043" sprite="BG_chars/Toast" y="709" scale="0.55" type="loop" name="toast"/>
+	<sprite x="1055" y="671" sprite="BG_chars/ToastDead" alpha="0" scale="0.4" name="toastDead"/>
+	<sprite x="876" y="752" sprite="BG_chars/AllanDead" scale="0.15" name="allanDead" alpha="0"/>
+	<sprite x="508" y="387" sprite="BG_chars/DeadPotato" scale="0.15" name="deadPotato" alpha="0"/>
+	<sprite x="879" y="741" sprite="BG_chars/BananaDead" scale="0.3" name="deadJoe" alpha="0"/>
+
+	<sprite x="850" sprite="BG_chars/Joe" y="655" scale="0.55" type="loop" name="joe">	
+		<anim x="0" loop="true" y="0" fps="12" anim="Joe Idle" type="loop" name="idle"/>
+	</sprite>
+
+	<sprite x="434" sprite="BG_chars/PennyHot" y="472" scale="1.2" type="none" name="penny">	
+		<anim x="0" loop="true" y="0" fps="12" anim="Penny Idle" type="loop" name="idle"/>
+	</sprite>
+
+	<sprite x="766" y="508" sprite="BG_chars/DeadTobias" alpha="0" scale="0.6" name="deadTobias"/>
+	
+	<sprite x="320" y="370" sprite="BG_chars/CarrieCorrupted" type="loop" alpha="0" name="carrieCorrupt">
+		<anim x="0" loop="true" y="0" fps="6" anim="Idle" type="loop" name="idle"/>
+	</sprite>
+	
+	<sprite x="1466" y="452" sprite="BG_chars/Corrupted_Masami" type="loop" alpha="0" scale="1.2" name="c_masami"/>
+	
+	<gf scrolly="1" x="1000" y="280" alpha="0" scrollx="1"/>
+	<dad x="300" y="360"/>
+	<boyfriend camxoffset="-175" x="1250" y="260"/>
+	
+	<sprite x="-200" y="200" sprite="Ilustracion_sin_titulo-2" scroll="1" scale="1.1" name="wall"/>
+	<sprite x="0" y="100" sprite="topgoop" scroll="1" alpha="0.0001" scale="1.42" name="topgoop"/>
+	
+	<sprite x="1500" scroll="0.85" sprite="BG_chars/Sarah" y="700" scale="1.6" type="none" name="sarah">	
+		<anim x="0" loop="true" y="0" fps="12" anim="Sarah Idle" type="loop" name="idle"/>
+	</sprite>
+	
+	<sprite x="1651" y="1037" sprite="BG_chars/SarahDead" alpha="0" scale="1.1" name="sarahDead"/>
+	<sprite x="-400" scroll="0.85" sprite="BG_chars/HotDogGuy1" y="690" scale="1.6" type="none" name="hotDogGuy">	
+		<anim x="0" loop="true" y="0" fps="12" anim="HotDogGuy Idle" type="loop" name="idle"/>
+	</sprite>
+	
+	<sprite x="-183" y="738" type="loop" scale="2.6" scrollx="0.85" name="c_HotDog" scrolly="0.85" sprite="BG_chars/CorruptedHotDog" alpha="0" updateHitBox="true"/>
+
+	<sprite scrolly="1.1" x="1300" y="150" sprite="secondtopgoop" alpha="0" scale="1.42" scrollx="1.1" name="topgoop2"/>
+	<sprite x="-566.5" y="75" sprite="light" scroll="1" scale="1" name="light"/>
+	<sprite x="155" sprite="Ilustracion_sin_titulo-3" y="196" scale="1.3" name="idkShit"/>
+	<sprite x="-230.5" sprite="188_sin_titulo11_20230523094718" y="1" scale="0.9" name="idkShit2"/>
+	
+	<combo x="917.25" y="522.75"/>
+</stage>

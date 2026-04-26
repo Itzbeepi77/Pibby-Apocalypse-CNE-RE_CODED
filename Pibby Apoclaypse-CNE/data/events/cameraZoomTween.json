@@ -1,0 +1,29 @@
+{
+    "params": [
+        {
+            "name": "Tween Case (ex: only camera)",
+            "type": "DropDown('default', 'only camera', 'stinky tween defaultZoom', 'stinky defaultZoom')",
+            "defaultValue": "default"
+        },
+        {
+            "name": "Tween Value",
+            "type": "String",
+            "defaultValue": 1
+        },
+        {
+            "name": "Tween Time",
+            "type": "String",
+            "defaultValue": 1
+        },
+		{
+            "name": "Tween Ease (ex: circ, quad, cube)",
+            "type": "DropDown('linear', 'back', 'bounce', 'circ', 'cube', 'elastic', 'expo', 'quad', 'quart', 'quint', 'sine', 'smoothStep', 'smootherStep')",
+            "defaultValue": "linear"
+        },
+        {
+            "name": "Tween Type (ex: InOut)",
+            "type": "DropDown('In', 'Out', 'InOut')",
+            "defaultValue": "In"
+        }
+    ]
+}

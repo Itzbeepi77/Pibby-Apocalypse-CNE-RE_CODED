@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Corrupted_Masami.png">
+	
+	
+	<SubTexture name="Masami Corrupted0000" x="50" y="50" width="152" height="120" frameX="-2" frameY="-2" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0001" x="50" y="50" width="152" height="120" frameX="-2" frameY="-2" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0002" x="50" y="50" width="152" height="120" frameX="-2" frameY="-2" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0003" x="50" y="50" width="152" height="120" frameX="-2" frameY="-2" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0004" x="50" y="50" width="152" height="120" frameX="-2" frameY="-2" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0005" x="252" y="50" width="156" height="121" />
+	<SubTexture name="Masami Corrupted0006" x="252" y="50" width="156" height="121" />
+	<SubTexture name="Masami Corrupted0007" x="252" y="50" width="156" height="121" />
+	<SubTexture name="Masami Corrupted0008" x="252" y="50" width="156" height="121" />
+	<SubTexture name="Masami Corrupted0009" x="252" y="50" width="156" height="121" />
+	<SubTexture name="Masami Corrupted0010" x="459" y="50" width="151" height="117" frameX="-2" frameY="-1" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0011" x="459" y="50" width="151" height="117" frameX="-2" frameY="-1" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0012" x="459" y="50" width="151" height="117" frameX="-2" frameY="-1" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0013" x="459" y="50" width="151" height="117" frameX="-2" frameY="-1" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0014" x="459" y="50" width="151" height="117" frameX="-2" frameY="-1" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0015" x="660" y="50" width="152" height="114" frameX="-2" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0016" x="660" y="50" width="152" height="114" frameX="-2" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0017" x="660" y="50" width="152" height="114" frameX="-2" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0018" x="660" y="50" width="152" height="114" frameX="-2" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0019" x="660" y="50" width="152" height="114" frameX="-2" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0020" x="50" y="221" width="153" height="115" frameX="-1" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0021" x="50" y="221" width="153" height="115" frameX="-1" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0022" x="50" y="221" width="153" height="115" frameX="-1" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0023" x="50" y="221" width="153" height="115" frameX="-1" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami Corrupted0024" x="50" y="221" width="153" height="115" frameX="-1" frameY="-4" frameWidth="156" frameHeight="121" />
+</TextureAtlas>

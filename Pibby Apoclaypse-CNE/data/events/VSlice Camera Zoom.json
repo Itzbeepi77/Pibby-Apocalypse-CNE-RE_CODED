@@ -1,0 +1,41 @@
+{
+    "params": [
+        {
+            "name": "Zoom",
+            "type": "Float(0, 99, 1, 2)",
+            "defaultValue": 1
+        },
+        {
+            "name": "Direct Zoom instead of multiplier?",
+            "type": "Bool",
+            "defaultValue": true
+        },
+        {
+            "name": "Duration (Steps)",
+            "type": "String",
+            "defaultValue": 16
+        },
+        {
+            "name": "Easing Style",
+            "type": "DropDown('Linear (Ignores Direction)',
+            'Instant (Ignores Direction)',
+            'Sine',
+            'Quad',
+            'Cube',
+            'Quart',
+            'Quint',
+            'Expo',
+            'Smooth Step',
+            'Elastic')",
+            "defaultValue": "Expo"
+        },
+        {
+            "name": "Easing Direction",
+            "type": "DropDown(
+            'In',
+            'Out', 
+            'In/Out')",
+            "defaultValue": "Out"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Sarah.png" width="1192" height="1056">
+  <SubTexture name="Sarah Idle0004.png" x="0" y="0"  width="323" height="405" frameX="-116" frameY="-17" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Sarah Idle0005.png" x="323" y="0"  width="324" height="404" frameX="-115" frameY="-18" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Sarah Idle0006.png" x="0" y="405" width="404" height="324" rotated="true"  frameX="-115" frameY="-18" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Sarah Idle0003.png" x="404" y="404" width="403" height="325" rotated="true"  frameX="-114" frameY="-19" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Sarah Idle0007.png" x="647" y="0"  width="325" height="403" frameX="-114" frameY="-19" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Sarah Idle0000.png" x="0" y="729" width="398" height="327" rotated="true"  frameX="-111" frameY="-24" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Sarah Idle0002.png" x="398" y="729" width="398" height="326" rotated="true"  frameX="-111" frameY="-24" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Sarah Idle0001.png" x="796" y="729" width="396" height="327" rotated="true"  frameX="-109" frameY="-26" frameWidth="563" frameHeight="422"/>
+</TextureAtlas>

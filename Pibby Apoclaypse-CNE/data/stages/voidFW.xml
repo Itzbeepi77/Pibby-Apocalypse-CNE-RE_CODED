@@ -1,0 +1,31 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/voidFW/" zoom="0.65" name="voidFW">
+	<sprite scrolly="0.6" y="-200" sprite="void" scale="2.5" scrollx="0.6" name="bg"/>
+	<sprite scrolly="0.6" sprite="1b" y="-200" scale="3" alpha="0" name="bgb" scrollx="0.6"/>
+	<sprite x="-729.5" y="-483" sprite="2b" name="fuck"/>
+	<sprite x="-42.575" y="-34.25" sprite="Ilustracion_sin_titulo-5" scroll="1.1" scale="2.5" name="rock"/>
+	<sprite x="0" y="-200" sprite="Ilustracion_sin_titulo-6" scroll="0.9" scale="2.5" name="rock2"/>
+	<sprite x="0" y="-200" sprite="Ilustracion_sin_titulo-7" scroll="0.85" scale="2.5" name="rock3"/>
+	<sprite x="-400" y="100" sprite="11" scroll="1.1" scale="1.2" alpha="0.0001" name="rockb"/>
+	<sprite x="0" y="-200" sprite="4" scroll="0.85" scale="1.2" alpha="0.0001" name="rock4b"/>
+	<sprite x="-1062" scrolly="0.85" sprite="Ilustracion_sin_titulo-7" y="173" scale="1.75" name="rock4" scrollx="0.85">
+		
+		
+		<property type="bool" name="flipX" value="true"/>
+		
+	
+	</sprite>
+	<sprite scrolly="0.85" y="-100" sprite="Ilustracion_sin_titulo-3" scale="1.25" scrollx="0.85" name="house"/>
+	<sprite scrolly="0.85" x="-785" y="-488" sprite="3b" alpha="0" scale="0.75" scrollx="0.85" name="houseb"/>
+	<sprite x="-800" scrolly="0.6" sprite="2b" y="-400" scale="1.2" name="uhh2" scrollx="0.6"/>
+	<sprite x="0" y="-150" sprite="Ilustracion_sin_titulo-4" scroll="1" scale="2.5" name="platform"/>
+	<sprite x="-614.5" sprite="5b" y="-470.5" scale="1.2" alpha="0.0001" name="platform2"/>
+	<gf x="935" scrolly="1" scrollx="1" y="55"/>
+	<dad x="150" y="100"/>
+	<boyfriend x="943.25" y="83.5"/>
+	<sprite x="-714.5" sprite="2b" y="-148" scale="1.2" name="uhh3"/>
+	<sprite scale="3" name="things" sprite="Ilustracion_sin_titulo-8" y="-200"/>
+	<combo/>
+	<sprite x="19.25" y="380" sprite="Ilustracion_sin_titulo-2" scale="2" name="glitchFGshit"/>
+	<sprite x="8.25" sprite="Ilustracion_sin_titulo-9" y="-102" scale="3" name="glitchShit"/>
+</stage>

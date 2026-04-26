@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/void/" zoom="1.2" name="void">
+	<sprite scrolly="0.6" sprite="void" y="-200" scale="2" type="loop" name="bg" scrollx="0.6"/>
+	<sprite x="100" y="0" scale="5" type="loop" name="glitch" scrollx="0.6" scrolly="0.6" sprite="gumballglitchbg" alpha="0.001"/>
+	<sprite x="0" y="-200" sprite="Ilustracion_sin_titulo-4" scroll="1.1" scale="2.5" name="rock"/>
+	<sprite x="0" y="-200" sprite="Ilustracion_sin_titulo-5" scroll="1.1" scale="2.5" name="rock2"/>
+	<sprite x="0" y="-200" sprite="Ilustracion_sin_titulo-6" scroll="1.1" scale="2.5" name="rock3"/>
+	<sprite x="-1062" scrolly="0.85" sprite="Ilustracion_sin_titulo-6" y="173" scale="1.75" name="rock4" scrollx="0.85">
+		
+		
+		<property type="bool" name="flipX" value="true"/>
+		
+	
+	</sprite>
+	<sprite scrolly="0.85" x="200" sprite="Ilustracion_sin_titulo-2" scale="1.25" scrollx="0.85" name="house"/>
+	<sprite x="0" y="-150" sprite="Ilustracion_sin_titulo-3" scroll="1" scale="2.5" name="platform"/>
+	<gf x="920" scrolly="1" scrollx="1" y="-55"/>
+	<dad x="150" y="50"/>
+	<boyfriend x="970" camxoffset="-100" y="-25"/>
+	<sprite x="150" scrolly="1.1" sprite="Ilustracion_sin_titulo-7" y="-200" scale="3" name="things" scrollx="1.1"/>
+	<combo/>
+</stage>

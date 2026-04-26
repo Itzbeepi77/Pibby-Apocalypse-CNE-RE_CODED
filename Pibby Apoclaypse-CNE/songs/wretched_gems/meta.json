@@ -1,0 +1,15 @@
+{
+	"color": "#FF65DB",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"NORMAL"
+	],
+	"icon": "steven",
+	"threatLevel": "90",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Wretched Gems",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 180
+}

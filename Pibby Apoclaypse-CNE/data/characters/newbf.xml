@@ -1,0 +1,35 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" y="350" sprite="PA/Cartoon-bf_newV2" flipX="true" isPlayer="true" icon="bf" isGF="false" color="#04D3F9" holdTime="4" scale="1" beatInterval="1">
+	<anim name="reload" anim="BF reload0" x="-41" y="14" fps="24" loop="false"/>
+	<anim name="idle" anim="BF idle dance" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="oop" anim="block bad0" x="-10" y="232" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="idle sword0" x="187" y="-39" fps="24" loop="false"/>
+
+	<anim name="singLEFT" anim="left0" x="-90" y="-6" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="124" y="57" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="-96" y="-40" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-14" y="3" fps="24" loop="false"/>
+
+	<anim name="singDownTrans" anim="down" x="-95" y="-40" fps="24" loop="false" indices="3..17"/>
+	<anim name="singUPTrans" anim="up" x="124" y="57" fps="24" loop="false" indices="3..17"/>
+	<anim name="singLEFTTrans" anim="left" x="-90" y="-6" fps="24" loop="false" indices="3..17"/>
+	<anim name="singRIGHTTrans" anim="right" x="-14" y="3" fps="24" loop="false" indices="3..17"/>
+
+	<anim name="singLEFTdodge-sword" anim="block sick0" x="313" y="194" fps="24" loop="false"/>
+	<anim name="singLEFTdodge" anim="left dodge0" x="55" y="0" fps="24" loop="false"/>
+	<anim name="singUPdodge-sword" anim="block sick0" x="313" y="194" fps="24" loop="false"/>
+	<anim name="singUPdodge" anim="up dodge0" x="-39" y="64" fps="24" loop="false"/>
+	<anim name="singDOWNdodge-sword" anim="block good0" x="177" y="220" fps="24" loop="false"/>
+	<anim name="singDOWNdodge" anim="down dodge0" x="74" y="-18" fps="24" loop="false"/>
+	<anim name="singRIGHTdodge" anim="dodge right0" x="-56" y="4" fps="24" loop="false"/>
+	<anim name="singRIGHTshoot" anim="Bf Shoot R" x="76" y="106" fps="24" loop="false"/>
+
+	<anim name="singDOWNshoot" anim="Bf Shoot D" x="102" y="-13" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="MissR0" x="-40" y="-9" fps="24" loop="false"/>
+	<anim name="singUPshoot" anim="Bf Shoot U" x="67" y="80" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="MissL0" x="-58" y="-6" fps="24" loop="false"/>
+	<anim name="singRIGHTdodge-sword" anim="block good0" x="177" y="220" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="MissD0" x="-21" y="-49" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="MissU0" x="-29" y="87" fps="24" loop="false"/>
+	<anim name="singLEFTshoot" anim="Bf Shoot L" x="221" y="100" fps="24" loop="false"/>
+</character>

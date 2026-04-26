@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<character x="20" camx="-70" y="160" icon="newfinn" scale="1.5" camy="-120" color="#a8a0b3" holdTime="3.6" sprite="FINNFASE1REM">
+	<anim loop="true" x="10" y="-9.333333333333334" anim="idle" name="idle"/>
+
+	<anim loop="true" x="35.333333333333336" y="59.333333333333336" anim="up" name="singUP"/>
+
+	<anim x="5.333333333333333" y="-108.66666666666667" anim="right" name="singRIGHT"/>
+
+	<anim x="-42.666666666666664" y="-154" anim="down" name="singDOWN"/>
+
+	<anim x="154.66666666666666" y="-23.333333333333332" anim="left" name="singLEFT"/>
+
+	<anim x="10.666666666666666" y="-10" anim="uh" name="singLEFT-alt"/>
+
+	<anim x="37.333333333333336" y="-11.333333333333334" anim="HA" name="singUP-alt"/>
+
+	<anim x="-1.3333333333333333" y="-9.333333333333334" anim="je" name="singDOWN-alt"/>
+</character>

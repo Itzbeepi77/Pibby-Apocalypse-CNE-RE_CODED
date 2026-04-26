@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" camx="-65" y="275" icon="finn_V2" scale="1.4" camy="-170" color="#a8a0c7" holdTime="4.6" antialiasing="true" sprite="FinnFase1">
+	<anim x="271.75" fps="24" y="116.375" anim="left" name="singLEFT"/>
+
+	<anim x="76.625" fps="24" y="-44.375" anim="down" name="singDOWN"/>
+
+	<anim x="100.625" fps="24" y="241.875" anim="up" name="singUP"/>
+
+	<anim x="8.75" fps="24" y="12.5" anim="right" name="singRIGHT"/>
+
+	<anim loop="true" x="56.25" fps="24" y="155.625" anim="idle" name="idle"/>
+</character>

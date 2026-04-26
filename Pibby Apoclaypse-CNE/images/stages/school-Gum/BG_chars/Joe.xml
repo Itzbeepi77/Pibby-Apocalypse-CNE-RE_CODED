@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Joe.png">
+<SubTexture name="Joe Idle0000" x="0" y="0" width="261" height="357" frameX="-157" frameY="-14" frameWidth="562" frameHeight="378" />
+<SubTexture name="Joe Idle0001" x="261" y="0" width="260" height="356" frameX="-158" frameY="-15" frameWidth="562" frameHeight="378" />
+<SubTexture name="Joe Idle0002" x="0" y="357" width="274" height="351" frameX="-144" frameY="-20" frameWidth="562" frameHeight="378" />
+<SubTexture name="Joe Idle0003" x="274" y="357" width="280" height="349" frameX="-138" frameY="-22" frameWidth="562" frameHeight="378" />
+<SubTexture name="Joe Idle0004" x="801" y="0" width="281" height="349" frameX="-136" frameY="-22" frameWidth="562" frameHeight="378" />
+<SubTexture name="Joe Idle0005" x="521" y="0" width="280" height="351" frameX="-138" frameY="-20" frameWidth="562" frameHeight="378" />
+</TextureAtlas>

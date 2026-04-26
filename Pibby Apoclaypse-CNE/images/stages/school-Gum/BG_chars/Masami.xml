@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Masami.png">
+	
+	
+	<SubTexture name="Masami0000" x="50" y="50" width="152" height="120" frameX="-2" frameY="-2" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0001" x="50" y="50" width="152" height="120" frameX="-2" frameY="-2" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0002" x="50" y="50" width="152" height="120" frameX="-2" frameY="-2" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0003" x="50" y="50" width="152" height="120" frameX="-2" frameY="-2" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0004" x="50" y="50" width="152" height="120" frameX="-2" frameY="-2" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0005" x="252" y="50" width="156" height="121" />
+	<SubTexture name="Masami0006" x="252" y="50" width="156" height="121" />
+	<SubTexture name="Masami0007" x="252" y="50" width="156" height="121" />
+	<SubTexture name="Masami0008" x="252" y="50" width="156" height="121" />
+	<SubTexture name="Masami0009" x="252" y="50" width="156" height="121" />
+	<SubTexture name="Masami0010" x="459" y="50" width="151" height="117" frameX="-2" frameY="-1" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0011" x="459" y="50" width="151" height="117" frameX="-2" frameY="-1" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0012" x="459" y="50" width="151" height="117" frameX="-2" frameY="-1" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0013" x="459" y="50" width="151" height="117" frameX="-2" frameY="-1" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0014" x="459" y="50" width="151" height="117" frameX="-2" frameY="-1" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0015" x="660" y="50" width="152" height="114" frameX="-2" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0016" x="660" y="50" width="152" height="114" frameX="-2" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0017" x="660" y="50" width="152" height="114" frameX="-2" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0018" x="660" y="50" width="152" height="114" frameX="-2" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0019" x="660" y="50" width="152" height="114" frameX="-2" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0020" x="50" y="221" width="153" height="115" frameX="-1" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0021" x="50" y="221" width="153" height="115" frameX="-1" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0022" x="50" y="221" width="153" height="115" frameX="-1" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0023" x="50" y="221" width="153" height="115" frameX="-1" frameY="-4" frameWidth="156" frameHeight="121" />
+	<SubTexture name="Masami0024" x="50" y="221" width="153" height="115" frameX="-1" frameY="-4" frameWidth="156" frameHeight="121" />
+</TextureAtlas>

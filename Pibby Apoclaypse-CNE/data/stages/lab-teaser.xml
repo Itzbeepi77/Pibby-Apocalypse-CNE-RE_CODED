@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/lab/" zoom="1.05" startCamPosX="900">
+	<sprite x="65" y="-261" sprite="labV2/bright" scale="1.5" name="bg"/>
+	<sprite x="65" y="-261" sprite="labV2/dark" scale="1.5" name="bg_dark"/>
+	<sprite x="-104" y="-364" sprite="labV2/red light" alpha="0" scale="1.5" name="red_light"/>
+	<gf x="1367" scrolly="1" scrollx="1" y="273"/>
+	<dad x="-132" y="329"/>
+	<bf x="1613" y="150"/>
+	<combo x="1066" y="357"/>
+	<sprite x="855" y="533" sprite="light" scale="3" name="light_shit"/>
+	<sprite x="59" y="-255" sprite="labV2/bulb" scale="1.5" name="bulb"/>
+	<sprite x="64" y="-261" sprite="labV2/dark_light" scale="1.5" name="dark"/>
+	<sprite x="63" y="-256" sprite="labV2/light" alpha="0.5" scale="1.5" name="light"/>
+</stage>

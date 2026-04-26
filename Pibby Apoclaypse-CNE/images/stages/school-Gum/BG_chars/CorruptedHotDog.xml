@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CorruptedHotDog.png">
+<SubTexture name="CorruptedHotDog Idle0000" x="191" y="0" width="191" height="246" frameX="-203" frameY="-114" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0001" x="382" y="0" width="191" height="246" frameX="-203" frameY="-114" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0002" x="0" y="248" width="193" height="245" frameX="-199" frameY="-115" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0003" x="0" y="248" width="193" height="245" frameX="-199" frameY="-115" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0004" x="573" y="0" width="193" height="240" frameX="-202" frameY="-120" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0005" x="573" y="0" width="193" height="240" frameX="-202" frameY="-120" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0006" x="0" y="493" width="196" height="238" frameX="-200" frameY="-122" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0007" x="0" y="493" width="196" height="238" frameX="-200" frameY="-122" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0008" x="196" y="493" width="190" height="230" frameX="-202" frameY="-130" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0009" x="196" y="493" width="190" height="230" frameX="-202" frameY="-130" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0010" x="766" y="0" width="192" height="224" frameX="-200" frameY="-136" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0011" x="766" y="0" width="192" height="224" frameX="-200" frameY="-136" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0012" x="0" y="731" width="190" height="219" frameX="-203" frameY="-141" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0013" x="0" y="731" width="190" height="219" frameX="-203" frameY="-141" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0014" x="766" y="445" width="192" height="220" frameX="-202" frameY="-140" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0015" x="766" y="445" width="192" height="220" frameX="-202" frameY="-140" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0016" x="766" y="224" width="191" height="221" frameX="-204" frameY="-139" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0017" x="766" y="224" width="191" height="221" frameX="-204" frameY="-139" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0018" x="386" y="493" width="193" height="225" frameX="-201" frameY="-135" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0019" x="386" y="493" width="193" height="225" frameX="-201" frameY="-135" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0020" x="573" y="240" width="191" height="231" frameX="-204" frameY="-129" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0021" x="573" y="240" width="191" height="231" frameX="-204" frameY="-129" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0022" x="193" y="248" width="193" height="244" frameX="-201" frameY="-116" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0023" x="193" y="248" width="193" height="244" frameX="-201" frameY="-116" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0024" x="0" y="0" width="191" height="248" frameX="-204" frameY="-112" frameWidth="640" frameHeight="360" />
+<SubTexture name="CorruptedHotDog Idle0025" x="0" y="0" width="191" height="248" frameX="-204" frameY="-112" frameWidth="640" frameHeight="360" />
+</TextureAtlas>

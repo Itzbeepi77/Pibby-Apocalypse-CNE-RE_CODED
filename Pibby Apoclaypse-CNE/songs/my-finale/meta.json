@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 180,
+	"difficulties": [
+		"NORMAL"
+	],
+	"needsVoices": false,
+	"parsedColor": -16730117,
+	"displayName": "My Finale",
+	"icon": "Pibby Apocalypse/gumball",
+	"name": "my-finale",
+	"color": "#00B7FB"
+}

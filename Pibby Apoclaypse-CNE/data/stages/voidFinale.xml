@@ -1,0 +1,44 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosY="-200" folder="stages/voidFinale/" zoom="0.25">
+	<sprite scrolly="0.85" x="-392" y="-350" sprite="void" scale="3" scrollx="0.85" name="void"/>
+	<sprite x="-781" y="-391" sprite="1" alpha="0" scale="2.5" name="voidb"/>
+	<sprite scrolly="0.7" x="526" y="-1131" sprite="cor" scale="0.5" scrollx="0.7" name="cor1"/>
+	<sprite scrolly="0.6" x="119" y="-1074" sprite="tree" scale="0.4" scrollx="0.6" name="tree"/>
+
+	<sprite scrolly="0.4" x="-795.25" y="-499.75" sprite="3" scale="0.8" scrollx="0.4" name="house">
+		<property type="float" value="0.8" name="scroll"/>
+	</sprite>
+
+	<sprite scrolly="0.35" x="-572" y="-713" sprite="silhouet" scale="0.3" scrollx="0.35" name="silhouet"/>
+	<sprite scrolly="0.5" x="877" y="-653" sprite="CHAAR" scale="0.5" scrollx="0.5" name="car1"/>
+
+	<sprite scrolly="0.7" x="-1103" y="-500" sprite="cHAR" scale="0.55" scrollx="0.7" name="cHAR">
+		<property type="bool" value="true" name="flipX"/>
+	</sprite>
+
+	<sprite scrolly="0.6" x="1406" y="-278" sprite="cor2" scrollx="0.6" name="cor2">
+		<property type="float" value="0.6" name="scroll"/>
+	</sprite>
+
+	<sprite x="130.5" y="-109" sprite="Ilustracion_sin_titulo-2" scale="2.5" name="glitch_shit"/>
+	<sprite scrolly="0.6" x="945.5" y="-377.5" sprite="Ilustracion_sin_titulo-5" scale="2.5" scrollx="0.6" name="rock_shit"/>
+	<sprite scrolly="0.6" x="-2094.75" y="5.75" sprite="Ilustracion_sin_titulo-6" scale="1.75" scrollx="0.6" name="rock2"/>
+	<sprite scrolly="0.8" x="-131.5" y="-836.5" sprite="Ilustracion_sin_titulo-7" scale="1.75" scrollx="0.8" name="rock3"/>
+
+	<sprite scrolly="1.1" x="2460.875" y="-29.125" sprite="Ilustracion_sin_titulo-6" scale="2" scrollx="1.1" name="rock4">
+		<property type="bool" value="true" name="flipX"/>
+	</sprite>
+
+	<sprite x="193" y="198" sprite="2b" scale="1.75" name="glitchMF2"/>
+	<sprite scrolly="0.9" x="-1476.5" y="210.5" sprite="2b" scale="1.75" scrollx="0.9" name="glitchMF"/>
+	<sprite x="-289" y="49" sprite="12" scale="1.25" name="glitch5"/>
+	<sprite scrolly="0.8" x="1273" y="208" sprite="Ilustracion_sin_titulo-7" scale="2" scrollx="0.8" name="rock5"/>
+	<sprite x="379.25" y="928.75" sprite="rooftop" scale="2.5" name="rooftop"/>
+
+	<gf/>
+	<dad x="95" y="169"/>
+	<bf x="1007.5" y="173.5"/>
+	<combo x="576.5" y="531.5"/>
+	
+	<sprite x="-742" y="129" sprite="12" scale="2" name="glitch6"/>
+</stage>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="PennyHot.png" width="1002" height="897">
+  <SubTexture name="Penny Idle0004.png" x="0" y="0"  width="250" height="399" frameX="-160" frameY="-14" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Penny Idle0005.png" x="250" y="0"  width="249" height="399" frameX="-161" frameY="-14" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Penny Idle0006.png" x="0" y="399" width="399" height="249" rotated="true"  frameX="-161" frameY="-14" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Penny Idle0003.png" x="499" y="0"  width="250" height="398" frameX="-159" frameY="-15" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Penny Idle0007.png" x="0" y="648" width="397" height="249" rotated="true"  frameX="-161" frameY="-16" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Penny Idle0002.png" x="499" y="398"  width="250" height="396" frameX="-157" frameY="-17" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Penny Idle0001.png" x="749" y="0"  width="253" height="391" frameX="-153" frameY="-22" frameWidth="563" frameHeight="422"/>
+  <SubTexture name="Penny Idle0000.png" x="749" y="391"  width="253" height="390" frameX="-154" frameY="-23" frameWidth="563" frameHeight="422"/>
+</TextureAtlas>

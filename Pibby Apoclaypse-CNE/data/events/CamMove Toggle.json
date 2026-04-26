@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "Toggle Camera Move on Hit?",
+            "type": "Bool",
+            "defaultValue": true
+        }
+    ]
+}
